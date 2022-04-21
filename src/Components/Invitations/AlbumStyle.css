@@ -1,0 +1,45 @@
+.edit_albumsbtn {
+  float: right;
+  border-radius: 25px;
+}
+.image-gallery-image {
+  height: 55vh !important;
+}
+.blank-album {
+  width: auto;
+  height: 33vh;
+  display: block;
+  margin: auto;
+
+}
+
+.addalbums_btn {
+  border-radius: 20px;
+  border-color: #3897f1;
+  background-color: #3897f1;
+  margin-top: 15px;
+}
+
+.share {
+  margin-top: 6px;
+  border: solid;
+  border-radius: 15px;
+  padding: 5px;
+  font-size: 30px;
+}
+@media (max-width: 768px) {
+  .addalbums_btn {
+    width: 50vw;
+  }
+  .albumedit_btn {
+    width: 80% !important;
+  }
+  .mySwiper2 {
+    height: 65vh !important;
+    top: 12vh !important;
+  }
+}
+.mySwiper2 {
+  height: 40vh;
+  top: 30vh;
+}

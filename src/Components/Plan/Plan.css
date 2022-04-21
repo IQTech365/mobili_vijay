@@ -1,0 +1,62 @@
+.plancardholder {
+  overflow: auto;
+  white-space: nowrap;
+  width: 100vw !important;
+}
+.plancard {
+  display: inline-block !important;
+  width: 23%;
+  margin: 1%;
+}
+.planpayment {
+  padding: 18px;
+  margin: 5px;
+  font-size: 17px;
+  font-weight: 500;
+}
+.upperplan {
+  height: 150px;
+  width: 100%;
+}
+.lowerplan {
+  height: 150px;
+  width: 100%;
+  color: 
+  #8d8d8d;
+}
+.Free {
+  background: linear-gradient(to right, #8e2de2, #4a00e0); 
+}
+.Bronze {
+  background-image: linear-gradient(134deg, #d09e84 1%, #a5825f 32%, #6b5844 67%, #41382f 100%);
+}
+.Silver {
+  background: linear-gradient(
+    120deg,
+    #c0c0c0,
+    #b1b1b1,
+    #a2a2a2,
+    #cfcfcf,
+    #a2a2a2
+  );
+}
+.Gold {
+  background-image: linear-gradient(134deg, #f5dc53 1%, #c3971c 44%, #b98612 75%, #b1780a 100%);
+}
+.pfsmall {
+  font-size: small;
+  padding: 10px;
+}
+.pfmed {
+  font-size: 13px;
+  font-weight: 700;
+  padding: 10px;
+}
+.pflarge {
+  font-size: 25px;
+  padding: 4px;
+  font-weight: 800;
+}
+.plan-float{
+text-align: right;
+}
